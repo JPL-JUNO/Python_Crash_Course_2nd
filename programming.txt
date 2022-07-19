@@ -1,0 +1,3 @@
+I love data analysis.
+I love programming.I also love finding meangin in large datasets.
+I love creating apps that can run in a browser.
