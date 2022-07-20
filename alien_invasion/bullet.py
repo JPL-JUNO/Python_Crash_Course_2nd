@@ -27,7 +27,7 @@ class Bullet(Sprite):
         :return:
         """
         # 更新表示子弹位置的小数值
-        self.y -=self.settings.bullet_speed
+        self.y -= self.settings.bullet_speed
         self.rect.y = self.y
 
     def draw_bullet(self):
